@@ -1,0 +1,10 @@
+﻿id,Name,Course,Age,Subject1,Subject2,Subject3,Subject4,Total,Percentage,Grade
+1,Atishay,BTECH,19,97,90,98,78,363,90.75,A
+2,Divyanshu,BTECH,20,98,76,99,98,371,92.75,A
+3,Aman,BSC,19,97,56,98,78,329,82.25,B
+4,Ram,BCA,19,70,97,78,87,332,83,B
+5,Shyam,BA,20,69,86,98,78,331,82.75,B
+6,Aviral,BBA,21,96,87,78,87,348,87,B
+7,Saksham,LLB,20,85,84,68,78,315,78.75,B
+8,Pranav,MBBS,21,92,92,98,78,360,90,B
+9,Aakash,MBA,23,70,69,87,98,324,81,B
